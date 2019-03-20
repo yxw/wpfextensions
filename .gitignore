@@ -1,8 +1,6 @@
-
-# Standard VS.NET and ReSharper Foo
-
-WPFExtensions/*/obj
-WPFExtensions/*/bin
+.vs/*
+*/obj
+*/bin
 *.csproj.user
 *ReSharper.user
 _ReSharper*
@@ -10,6 +8,7 @@ _ReSharper*
 *.suo
 *.cache
 * Thumbs.db
+*.g.cs
 
 #leftovers from merge
 *.orig
