@@ -1,0 +1,13 @@
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\bin\Debug\WPFExtensions.dll
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\bin\Debug\WPFExtensions.pdb
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions.csprojAssemblyReference.cache
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions_MarkupCompile.cache
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions_MarkupCompile.lref
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\Themes\Generic.baml
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions.g.resources
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions.Properties.Resources.resources
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions.csproj.GenerateResource.cache
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions.csproj.CoreCompileInputs.cache
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions.dll
+C:\Users\xiaowei.yang\WWW\AutoDiagrammer\AutoDiagrammer\wpfextensions\sourceCode\wpfextensions\WPFExtensions\WPFExtensions\obj\Debug\WPFExtensions.pdb
